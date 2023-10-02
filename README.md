@@ -1,5 +1,5 @@
 
-  <h1" >Eai, eu sou o <a href="https://www.linkedin.com/in/samuel-battisti-63b580225/">Samuel</a> 👋 </h1>
+  <h1">Eai, eu sou o <a href="https://www.linkedin.com/in/samuel-battisti-63b580225/">Samuel</a> 👋 </h1>
 <div ><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
