@@ -7,7 +7,7 @@
  <br><br><br><br>
 </div>
 <div>
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Samuelbattisti&theme=highcontrast&mode=weekly" />
+
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Samuelbattisti&show_icons=true&theme=highcontrast&layout=compact" />
 </div>
 
