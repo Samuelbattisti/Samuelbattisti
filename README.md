@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=11A928&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Eai%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=41B883&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Eai%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Seja+bem-vindo!)](https://git.io/typing-svg)
 <div align="center" >
   <br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
